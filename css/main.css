@@ -54,3 +54,9 @@ h2 {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+.underline {
+  background: url(../images/underline-jagged.svg) repeat-x;
+  background-position: -50px 100%;
+  padding-bottom: 1px;
+}
