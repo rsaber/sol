@@ -17,7 +17,7 @@ body {
 
 li,p,h1,h2,h3,h4,h5,h6 {
 	font-family: 'FalafelGrotesque', Helvetica;
-  color: #183150;
+  color: #FDF0D5;
   line-height: 150%;
 }
 
@@ -42,17 +42,19 @@ h2 {
 }
 
 .white-bg {
-  background-color: #f3f3f3;
+  background-color: #FDF0D5;
 }
 
 .cream-bg {
-  background-color: #ffdcb4;
+  background-color: #DE6B48;
 }
 
 .cream-text {
   color: #ffdcb4;
 }
-
+.white-bg-text {
+  color: #DE6B48;
+}
 .green-bg {
   background-color: #3b5f33;
 }
@@ -115,7 +117,7 @@ body {font-family: Verdana, sans-serif;}
 .weekdays {
     margin: 0;
     padding: 10px 0;
-    background-color:#ddd;
+    background-color:#FBD1A2;
 }
 
 .weekdays li {
@@ -128,7 +130,7 @@ body {font-family: Verdana, sans-serif;}
 /* Days (1-31) */
 .days {
     padding: 10px 0;
-    background: #eee;
+    background: #FAEDDD;
     margin: 0;
 }
 
@@ -169,31 +171,31 @@ body {font-family: Verdana, sans-serif;}
 
   24% {font-size:100%; opacity:1; content: "April"}
   /*28% {font-size:100%; opacity:0;} */
-  
+
   32% {font-size:100%; opacity:1; content: "May"}
   /*36% {font-size:100%; opacity:0;} */
-  
+
   40% {font-size:100%; opacity:1; content: "June"}
   /*44% {font-size:100%; opacity:0;} */
-  
+
   48% {font-size:100%; opacity:1; content: "Sol"}
   /*52% {font-size:100%; opacity:0;} */
-  
+
   56% {font-size:100%; opacity:1; content: "July"}
   /*60% {font-size:100%; opacity:0;} */
-  
+
   64% {font-size:100%; opacity:1; content: "August"}
   /*68% {font-size:100%; opacity:0;} */
-  
+
   72% {font-size:100%; opacity:1; content: "September"}
   /*76% {font-size:100%; opacity:0;} */
-  
+
   80% {font-size:100%; opacity:1; content: "October"}
   /*84% {font-size:100%; opacity:0;} */
-  
+
   88% {font-size:100%; opacity:1; content: "November"}
   /*92% {font-size:100%; opacity:0;} */
-  
+
   96% {font-size:100%; opacity:1; content: "December"}
   /*100% {font-size:100%; opacity:0;} */
 
